@@ -1,0 +1,27 @@
+{
+  "name": "LIRI-Bot",
+  "version": "1.0.0",
+  "description": "",
+  "main": "key.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/noahstrayve/LIRI-Bot.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/noahstrayve/LIRI-Bot/issues"
+  },
+  "homepage": "https://github.com/noahstrayve/LIRI-Bot#readme",
+  "dependencies": {
+    "inquirer": "^5.1.0",
+    "keys.js": "^1.0.2",
+    "node-spotify-api": "^1.0.7",
+    "request": "^2.83.0",
+    "twitter": "^1.7.1"
+  }
+}
